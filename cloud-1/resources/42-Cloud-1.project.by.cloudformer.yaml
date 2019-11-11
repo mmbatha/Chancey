@@ -1,7 +1,7 @@
-Ai essaye de le faire fonctionner a la fin du projet: n a pas marche
-Mots cles : CloudFormer pour creer ce type de fichier
+Tried to make it work at the end of the project: did not work
+Keywords: CloudFormer to create this type of file
 
-Je ne sais pas si ce fichier contient des cles secretes: par securite je le vide!!!
+I do not know if this file contains secret keys: by security I empty it !!!
 {
   "Resources": {
     "vpc0f201fcfd5d54bf6b": {
